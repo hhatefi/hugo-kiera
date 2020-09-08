@@ -166,7 +166,7 @@ time {
 
 #container main article p code {
   padding: 0.2em;
-  background-color: #ffcccc;
+  background-color: #e0e0e0;
   font-size: 0.9em;
 }
 
@@ -263,7 +263,7 @@ width: 100%;
 }
 
 a {
-  color: #666666;
+  color: #3399ff;
   text-decoration: none;
 }
 
