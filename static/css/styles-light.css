@@ -76,6 +76,10 @@ time {
   font-family: "Ruda", sans-serif;
 }
 
+#container nav a {
+  text-decoration: none;
+}
+
 #container nav ul {
   margin: 0;
   padding: 0;
